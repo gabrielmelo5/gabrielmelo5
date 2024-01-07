@@ -1,7 +1,7 @@
 - <h1 align="center">Oi 👋, Eu sou Gabriel E. Q. de Melo</h1>
 <h3 align="center">Professor de linguagem SQL e analista de dados, especialista em Power BI</h3>
 
-- 🔭 Atualmente trabalho na Questor Sistemas - Chapecó/SC [Analista de dados e BI](https://www.questor.com.br/)
+- 🔭 Trabalho como analista de Dados e BI
 
 - 🌱 Atualmente estou aprendendo **Pentaho e MicroStrategy Workstation**
 
