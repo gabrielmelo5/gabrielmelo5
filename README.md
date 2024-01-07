@@ -7,7 +7,7 @@
 
 - 👯 Leciono no CEDUP/Chapecó [Linguagem SQL](https://www.cedup.com.br/)
 
-- 💬 Me pergunte sobre **Power BI; Google DataStudio; MySql e Postgre**
+- 💬 Me pergunte sobre **Python; Power BI; Looker e SQL**
 
 - 📫 Me encontre em **gabrieldemelo51@gmail.com / https://www.linkedin.com/in/gabriel-estruzani-queir%C3%B3z-de-melo-335b85a6/**
 
